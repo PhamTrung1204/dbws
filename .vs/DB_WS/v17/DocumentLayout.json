@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65545E-59E3-421C-BD29-3A81F838C437}|DB_WS\\DB_WS.csproj|c:\\users\\phamtrung\\desktop\\project\\db_ws\\db_ws\\db\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F65545E-59E3-421C-BD29-3A81F838C437}|DB_WS\\DB_WS.csproj|solutionrelative:db_ws\\db\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65545E-59E3-421C-BD29-3A81F838C437}|DB_WS\\DB_WS.csproj|C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\db_ws\\db\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F65545E-59E3-421C-BD29-3A81F838C437}|DB_WS\\DB_WS.csproj|solutionrelative:db_ws\\db\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65545E-59E3-421C-BD29-3A81F838C437}|DB_WS\\DB_WS.csproj|C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\db_ws\\api\\cityws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F65545E-59E3-421C-BD29-3A81F838C437}|DB_WS\\DB_WS.csproj|solutionrelative:db_ws\\api\\cityws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F65545E-59E3-421C-BD29-3A81F838C437}|DB_WS\\DB_WS.csproj|C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\db_ws\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F65545E-59E3-421C-BD29-3A81F838C437}|DB_WS\\DB_WS.csproj|solutionrelative:db_ws\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\DB_WS\\db\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "DB_WS\\db\\ConnectDB.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\DB_WS\\db\\ConnectDB.cs",
+              "RelativeToolTip": "DB_WS\\db\\ConnectDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:46:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\DB_WS\\entities\\City.cs",
+              "RelativeDocumentMoniker": "DB_WS\\entities\\City.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\DB_WS\\entities\\City.cs",
+              "RelativeToolTip": "DB_WS\\entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:45:10.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\DB_WS\\db\\CityRepository.cs",
+              "RelativeDocumentMoniker": "DB_WS\\db\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\DB_WS\\db\\CityRepository.cs",
+              "RelativeToolTip": "DB_WS\\db\\CityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:44:30.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityWS.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\DB_WS\\api\\CityWS.asmx.cs",
+              "RelativeDocumentMoniker": "DB_WS\\api\\CityWS.asmx.cs",
+              "ToolTip": "C:\\Users\\PhamTrung\\Desktop\\Project\\DB_WS\\DB_WS\\api\\CityWS.asmx.cs",
+              "RelativeToolTip": "DB_WS\\api\\CityWS.asmx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:43:41.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
